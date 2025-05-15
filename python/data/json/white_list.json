@@ -1,0 +1,72 @@
+{
+  "white-list": [
+    {
+      "name": "PC",
+      "wl": [
+        {
+          "name": "Switch-Pierre",
+          "mac": "000413bc15df"
+        },
+        {
+          "name": "Switch-Paul",
+          "mac": "0030422551e6"
+        },
+        {
+          "name": "Switch-Jacques",
+          "mac": "D89EF324E02F"
+        }
+      ]
+    },
+    {
+      "name": "camera",
+      "wl": [
+        {
+          "name": "Switch-Pierre",
+          "mac": "000413bc15df"
+        },
+        {
+          "name": "Switch-Paul",
+          "mac": "0030422551e6"
+        },
+        {
+          "name": "Switch-Jacques",
+          "mac": "D89EF324E02F"
+        }
+      ]
+    },
+    {
+      "name": "alarme",
+      "wl": [
+        {
+          "name": "Switch-Pierre",
+          "mac": "000413bc15df"
+        },
+        {
+          "name": "Switch-Paul",
+          "mac": "0030422551e6"
+        },
+        {
+          "name": "Switch-Jacques",
+          "mac": "D89EF324E02F"
+        }
+      ]
+    },
+    {
+      "name": "routeur",
+      "wl": [
+        {
+          "name": "Switch-Pierre",
+          "mac": "000413bc15df"
+        },
+        {
+          "name": "Switch-Paul",
+          "mac": "0030422551e6"
+        },
+        {
+          "name": "Switch-Jacques",
+          "mac": "D89EF324E02F"
+        }
+      ]
+    }
+  ]
+}

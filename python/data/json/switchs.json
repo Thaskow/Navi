@@ -1,0 +1,1705 @@
+{
+    "keepLog": 2,
+    "timeLog": 10,
+    "maxPorts": 16,
+    "switchs": [
+        {
+            "name": "Switch Paul",
+            "ip": "10.0.7.2",
+            "emplacement": "Salle des serveurs",
+            "model": "Cisco Catalyst 2960",
+            "community": "Girod",
+            "ports": [
+                {
+                    "numero": 1,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 3,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 8,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 9,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 10,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:21",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 11,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "HP Inc.",
+                            "date": "2024-07-05 13:23:22",
+                            "status": "UP",
+                            "mac": "e8d8d1ed79b7",
+                            "name": "SG-MAINTENANCE1",
+                            "check": {
+                                "status": "1",
+                                "base": "KS"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 12,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 13,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 14,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 15,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 16,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 17,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 18,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 19,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 20,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 21,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 22,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 23,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 24,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 25,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": 1,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "UP",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": 1,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "UP",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": 1,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "UP",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 26,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 27,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 28,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:42",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:22",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 28,
+                    "history": []
+                }
+            ]
+        },
+        {
+            "name": "Switch Jean",
+            "ip": "172.18.25.25",
+            "emplacement": "Salle des serveurs",
+            "model": "Cisco Catalyst 2960",
+            "community": "Girod",
+            "ports": [
+                {
+                    "numero": 1,
+                    "history": [
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "DeTeWe-Deutsche Telephonwerke",
+                            "date": "2024-07-05 13:20:53",
+                            "status": "UP",
+                            "mac": "0030422551e6",
+                            "name": "Switch-Paul",
+                            "check": {
+                                "status": "1",
+                                "base": "White-List"
+                            }
+                        },
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "DeTeWe-Deutsche Telephonwerke",
+                            "date": "2024-07-05 13:23:26",
+                            "status": "UP",
+                            "mac": "0030422551e6",
+                            "name": "Switch-Paul",
+                            "check": {
+                                "status": "1",
+                                "base": "White-List"
+                            }
+                        },
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "DeTeWe-Deutsche Telephonwerke",
+                            "date": "2024-07-05 13:23:26",
+                            "status": "UP",
+                            "mac": "0030422551e6",
+                            "name": "Switch-Paul",
+                            "check": {
+                                "status": "1",
+                                "base": "White-List"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "history": [
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "Snom technology GmbH",
+                            "date": "2024-07-05 13:20:53",
+                            "status": "UP",
+                            "mac": "000413bc15df",
+                            "name": "Switch-Pierre",
+                            "check": {
+                                "status": "1",
+                                "base": "White-List"
+                            }
+                        },
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "Snom technology GmbH",
+                            "date": "2024-07-05 13:23:26",
+                            "status": "UP",
+                            "mac": "000413bc15df",
+                            "name": "Switch-Pierre",
+                            "check": {
+                                "status": "1",
+                                "base": "White-List"
+                            }
+                        },
+                        {
+                            "type": "PC",
+                            "interconnexion": null,
+                            "vendor": "Snom technology GmbH",
+                            "date": "2024-07-05 13:23:26",
+                            "status": "UP",
+                            "mac": "000413bc15df",
+                            "name": "Switch-Pierre",
+                            "check": {
+                                "status": "1",
+                                "base": "White-List"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 3,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:48",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:48",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:48",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:48",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:48",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 8,
+                    "history": [
+                        {
+                            "type": "?",
+                            "interconnexion": null,
+                            "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+                            "date": "2024-07-05 13:20:53",
+                            "status": "UP",
+                            "mac": "1489cb12b88a",
+                            "name": "?",
+                            "check": {
+                                "status": "0",
+                                "base": "Inconnu"
+                            }
+                        },
+                        {
+                            "type": "?",
+                            "interconnexion": null,
+                            "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+                            "date": "2024-07-05 13:23:26",
+                            "status": "UP",
+                            "mac": "1489cb12b88a",
+                            "name": "?",
+                            "check": {
+                                "status": "0",
+                                "base": "Inconnu"
+                            }
+                        },
+                        {
+                            "type": "?",
+                            "interconnexion": null,
+                            "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+                            "date": "2024-07-05 13:23:26",
+                            "status": "UP",
+                            "mac": "1489cb12b88a",
+                            "name": "?",
+                            "check": {
+                                "status": "0",
+                                "base": "Inconnu"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 9,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 10,
+                    "history": [
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:19:49",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:20:53",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        },
+                        {
+                            "type": null,
+                            "interconnexion": null,
+                            "vendor": null,
+                            "date": "2024-07-05 13:23:26",
+                            "status": "DOWN",
+                            "mac": null,
+                            "name": null,
+                            "check": {
+                                "status": null,
+                                "base": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "numero": 10,
+                    "history": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "warnings": [
+        {
+            "type": "?",
+            "interconnexion": null,
+            "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+            "date": "2024-07-05 13:19:49",
+            "status": "UP",
+            "mac": "1489cb12b88a",
+            "name": "?",
+            "check": {
+                "status": "0",
+                "base": "Inconnu"
+            },
+            "switch": {
+                "name": "Switch Jean",
+                "ip": "172.18.25.25",
+                "port": 8
+            }
+        }
+    ]
+}
